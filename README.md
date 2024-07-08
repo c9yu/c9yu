@@ -22,7 +22,7 @@
 
 <br/>
 
-<h2 align="center">⚒️ Using Technique ⚒️</h2>
+<h2 align="center">⚒️ Using Language ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" /><br>
