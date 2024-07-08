@@ -25,8 +25,7 @@
 <h2 align="left">⚒️ Using Language ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs," />
-    <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db011.png" width = 48 height = 48><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs," img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db011.png" width = 48 height = 48><br>
 </div>
 
 <hr/>
