@@ -1,20 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=c9yu.c9yu" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lee+ChanGyu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 name : Lee ChanGyu
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🌱 Email : polkj11290@naver.com
 
  <hr/>
  
