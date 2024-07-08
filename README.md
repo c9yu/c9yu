@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=c9yu.c9yu" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=c9yu.c9yu" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 name : Lee ChanGyu
  
@@ -14,7 +14,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Using Tools ⚒️</h2>
+<h2 align="left">⚒️ Using Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,visualstudio,vscode,github" />
@@ -22,7 +22,7 @@
 
 <br/>
 
-<h2 align="center">⚒️ Using Language ⚒️</h2>
+<h2 align="left">⚒️ Using Language ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" /><br>
@@ -30,7 +30,7 @@
 
 <hr/>
 
-<div align="center">
+<div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -40,7 +40,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 
 ![ChanGyu's GitGub stats](https://github-readme-stats.vercel.app/api?username=c9yu&show_icons=true&theme=radical)
 
