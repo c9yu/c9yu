@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs," />
-    ![icon](https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db011.png)<br>
+    <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db011.png"><br>
 </div>
 
 <hr/>
