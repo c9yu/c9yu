@@ -21,7 +21,7 @@
 <h2 align="center">⚒️ Using Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vs,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,VisualStudio,vscode,github" />
 </div>
 
 <br/>
