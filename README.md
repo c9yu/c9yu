@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Using Technique ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,c#,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" /><br>
 </div>
 
 <hr/>
