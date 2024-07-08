@@ -25,7 +25,7 @@
 <h2 align="left">⚒️ Using Language ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs," />![](https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db011.png)<br>
 </div>
 
 <hr/>
