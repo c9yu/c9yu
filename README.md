@@ -1,7 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=c9yu.c9yu" />
 
 <h1>
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=170&section=header&text=Hi%20There!:sparkles:%20%20I'm%20ChanGyu&fontSize=20" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=170&section=header&text=Hi%20There!%20%20I'm%20ChanGyu&fontSize=20" />
 </h1>
 
 <br/>
