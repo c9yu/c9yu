@@ -28,11 +28,18 @@
     <a href="https://github.com/c9yu/basic-database-2024">
         <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
     </a>
-    <img src="https://skillicons.dev/icons?i=python" >
-    <img src="https://skillicons.dev/icons?i=c" >
-    <img src="https://skillicons.dev/icons?i=cpp" >
-    <img src="https://skillicons.dev/icons?i=cs" >
-    
+    <a href="https://skillicons.dev/icons?i=python">
+        <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
+    </a>
+    <a href="https://skillicons.dev/icons?i=c">
+        <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
+    </a>
+    <a href="https://skillicons.dev/icons?i=cpp">
+        <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
+    </a>
+    <a href="https://skillicons.dev/icons?i=cs">
+        <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
+    </a>
 </div>
 
 <hr/>
