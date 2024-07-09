@@ -26,7 +26,11 @@
 <br/>
 <div align="left">
     <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width = 48 height = 48>  
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs," /><br>
+    <img src="https://skillicons.dev/icons?i=python" >
+    <img src="https://skillicons.dev/icons?i=c" >
+    <img src="https://skillicons.dev/icons?i=cpp" >
+    <img src="https://skillicons.dev/icons?i=cs" >
+    
 </div>
 
 <hr/>
