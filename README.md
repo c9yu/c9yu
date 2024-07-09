@@ -1,6 +1,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=c9yu.c9yu" />
 
-<h1 align="center">
+<h1>
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hi_There!&fontSize=20" />
 </h1>
 
