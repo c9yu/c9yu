@@ -72,6 +72,17 @@
       이 프로젝트는 C# 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-csharp-2024">여기</a>를 참조하세요.
     </td>
   </tr>
+    <tr>
+    <td align="center">
+        <div align="left">
+          <img src="https://skillicons.dev/icons?i=arduino" alt="arduino">
+        </div>
+    </td>
+    <td>
+      <b>GitHub</b><br>
+      이 프로젝트는 C# 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-csharp-2024">여기</a>를 참조하세요.
+    </td>
+  </tr>
 </table>
 
 
@@ -82,7 +93,7 @@
 <table>
   <tr>
     <td align="center">
-        <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
+        <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="MSSQL">
     </td>
     <td>
       <b>MSSQL</b><br>
@@ -91,7 +102,7 @@
   </tr>
   <tr>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=python" alt="이미지 설명">
+        <img src="https://skillicons.dev/icons?i=python" alt="python">
     </td>
     <td>
       <b>파이썬</b><br>
@@ -100,7 +111,7 @@
   </tr>
   <tr>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=c" alt="이미지 설명">
+        <img src="https://skillicons.dev/icons?i=c" alt="c">
     </td>
     <td>
       <b>C 언어</b><br>
@@ -109,7 +120,7 @@
   </tr>
   <tr>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="이미지 설명">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp">
     </td>
     <td>
       <b>C++</b><br>
@@ -118,7 +129,7 @@
   </tr>
   <tr>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=cs" alt="이미지 설명">
+        <img src="https://skillicons.dev/icons?i=cs" alt="cs">
     </td>
     <td>
       <b>C#</b><br>
