@@ -97,7 +97,7 @@
     </td>
     <td>
       <b>MSSQL</b><br>
-      이 프로젝트는 기본적인 데이터베이스 관리와 관련된 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-database-2024">여기</a>를 참조하세요.
+      데이터베이스 관리와 관련된 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-database-2024">여기</a>를 참조하세요.
     </td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@
     </td>
     <td>
       <b>파이썬</b><br>
-      이 프로젝트는 파이썬 프로그래밍 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-python-2024">여기</a>를 참조하세요.
+      파이썬 프로그래밍 언어 기반의 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-python-2024">여기</a>를 참조하세요.
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@
     </td>
     <td>
       <b>C 언어</b><br>
-      이 프로젝트는 C 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">여기</a>를 참조하세요.
+      C 언어 기반의 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">여기</a>를 참조하세요.
     </td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@
     </td>
     <td>
       <b>C++</b><br>
-      이 프로젝트는 C++ 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-cpp-2024">여기</a>를 참조하세요.
+      C++ 언어 기반의 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-cpp-2024">여기</a>를 참조하세요.
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@
     </td>
     <td>
       <b>C#</b><br>
-      이 프로젝트는 C# 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-csharp-2024">여기</a>를 참조하세요.
+      C# 언어 기반의 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-csharp-2024">여기</a>를 참조하세요.
     </td>
   </tr>
 </table>
