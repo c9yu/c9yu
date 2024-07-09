@@ -43,7 +43,7 @@
 
 <h2 align="left">⚡ Stats ⚡</h2>
 
-![ChanGyu's GitGub stats](https://github-readme-stats.vercel.app/api?username=c9yu&show_icons=true&theme=radical)
+![ChanGyu's GitGub stats](https://github-readme-stats.vercel.app/api?username=c9yu&show_icons=true&theme=transparent)
 
 <br/><br/>
 
