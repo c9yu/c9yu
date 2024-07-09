@@ -1,7 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=c9yu.c9yu" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </h1>
 
 <br/>
