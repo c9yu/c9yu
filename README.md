@@ -31,7 +31,7 @@
     <a href="https://github.com/c9yu/basic-python-2024">
         <img src="https://skillicons.dev/icons?i=python" alt="이미지 설명">
     </a>
-    <a href="https://skillicons.dev/icons?i=c">
+    <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">
         <img src="https://skillicons.dev/icons?i=c" alt="이미지 설명">
     </a>
     <a href="https://github.com/c9yu/basic-cpp-2024">
