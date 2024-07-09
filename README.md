@@ -19,11 +19,9 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-database-2024">
         <div align="left">
           <img src="https://skillicons.dev/icons?i=html" alt="HTML">
         </div>
-      </a>
     </td>
     <td>
       <b>HTML</b><br>
@@ -32,11 +30,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-python-2024">
         <div align="left">
           <img src="https://skillicons.dev/icons?i=css" alt="CSS">
         </div>
-      </a>
     </td>
     <td>
       <b>CSS</b><br>
@@ -45,11 +41,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">
         <div align="left">
           <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio">
         </div>
-      </a>
     </td>
     <td>
       <b>Visual Studio</b><br>
@@ -58,11 +52,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-cpp-2024">
         <div align="left">
           <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code">
         </div>
-      </a>
     </td>
     <td>
       <b>VS Code</b><br>
@@ -71,11 +63,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-csharp-2024">
         <div align="left">
           <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
         </div>
-      </a>
     </td>
     <td>
       <b>GitHub</b><br>
@@ -92,9 +82,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-database-2024">
         <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
-      </a>
     </td>
     <td>
       <b>MSSQL</b><br>
@@ -103,9 +91,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-python-2024">
         <img src="https://skillicons.dev/icons?i=python" alt="이미지 설명">
-      </a>
     </td>
     <td>
       <b>파이썬</b><br>
@@ -114,9 +100,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">
         <img src="https://skillicons.dev/icons?i=c" alt="이미지 설명">
-      </a>
     </td>
     <td>
       <b>C 언어</b><br>
@@ -125,9 +109,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-cpp-2024">
         <img src="https://skillicons.dev/icons?i=cpp" alt="이미지 설명">
-      </a>
     </td>
     <td>
       <b>C++</b><br>
@@ -136,9 +118,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/c9yu/basic-csharp-2024">
         <img src="https://skillicons.dev/icons?i=cs" alt="이미지 설명">
-      </a>
     </td>
     <td>
       <b>C#</b><br>
