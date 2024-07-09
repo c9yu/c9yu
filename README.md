@@ -30,36 +30,54 @@
       <a href="https://github.com/c9yu/basic-database-2024">
         <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
       </a>
-      <br>
-      데이터베이스
     </td>
+    <td>
+      <b>데이터베이스</b><br>
+      이 프로젝트는 기본적인 데이터베이스 관리와 관련된 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-database-2024">여기</a>를 참조하세요.
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/c9yu/basic-python-2024">
         <img src="https://skillicons.dev/icons?i=python" alt="이미지 설명">
       </a>
-      <br>
-      파이썬
     </td>
+    <td>
+      <b>파이썬</b><br>
+      이 프로젝트는 파이썬 프로그래밍 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-python-2024">여기</a>를 참조하세요.
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">
         <img src="https://skillicons.dev/icons?i=c" alt="이미지 설명">
       </a>
-      <br>
-      C 언어
     </td>
+    <td>
+      <b>C 언어</b><br>
+      이 프로젝트는 C 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">여기</a>를 참조하세요.
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/c9yu/basic-cpp-2024">
         <img src="https://skillicons.dev/icons?i=cpp" alt="이미지 설명">
       </a>
-      <br>
-      C++
     </td>
+    <td>
+      <b>C++</b><br>
+      이 프로젝트는 C++ 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-cpp-2024">여기</a>를 참조하세요.
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/c9yu/basic-csharp-2024">
         <img src="https://skillicons.dev/icons?i=cs" alt="이미지 설명">
       </a>
-      <br>
-      C#
+    </td>
+    <td>
+      <b>C#</b><br>
+      이 프로젝트는 C# 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-csharp-2024">여기</a>를 참조하세요.
     </td>
   </tr>
 </table>
