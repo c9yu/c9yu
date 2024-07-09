@@ -97,7 +97,7 @@
       </a>
     </td>
     <td>
-      <b>데이터베이스</b><br>
+      <b>MSSQL</b><br>
       이 프로젝트는 기본적인 데이터베이스 관리와 관련된 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-database-2024">여기</a>를 참조하세요.
     </td>
   </tr>
