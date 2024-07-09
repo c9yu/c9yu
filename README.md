@@ -24,23 +24,45 @@
 
 <h2 align="left">⚒️ Using Language ⚒️</h2>
 <br/>
-<div align="left">
-    <a href="https://github.com/c9yu/basic-database-2024">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/c9yu/basic-database-2024">
         <img src="https://raw.githubusercontent.com/c9yu/basic-database-2024/main/imamges/db012.png" width="48" height="48" alt="이미지 설명">
-    </a>
-    <a href="https://github.com/c9yu/basic-python-2024">
+      </a>
+      <br>
+      데이터베이스
+    </td>
+    <td align="center">
+      <a href="https://github.com/c9yu/basic-python-2024">
         <img src="https://skillicons.dev/icons?i=python" alt="이미지 설명">
-    </a>
-    <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">
+      </a>
+      <br>
+      파이썬
+    </td>
+    <td align="center">
+      <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">
         <img src="https://skillicons.dev/icons?i=c" alt="이미지 설명">
-    </a>
-    <a href="https://github.com/c9yu/basic-cpp-2024">
+      </a>
+      <br>
+      C 언어
+    </td>
+    <td align="center">
+      <a href="https://github.com/c9yu/basic-cpp-2024">
         <img src="https://skillicons.dev/icons?i=cpp" alt="이미지 설명">
-    </a>
-    <a href="https://github.com/c9yu/basic-csharp-2024">
+      </a>
+      <br>
+      C++
+    </td>
+    <td align="center">
+      <a href="https://github.com/c9yu/basic-csharp-2024">
         <img src="https://skillicons.dev/icons?i=cs" alt="이미지 설명">
-    </a>
-</div>
+      </a>
+      <br>
+      C#
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
