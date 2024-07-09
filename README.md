@@ -25,7 +25,7 @@
     </td>
     <td>
       <b>HTML</b><br>
-      이 프로젝트는 기본적인 데이터베이스 관리와 관련된 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-database-2024">여기</a>를 참조하세요.
+      이 프로젝트는 HTML과 관련된 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-aspnet-2024">여기</a>를 참조하세요.
     </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
     </td>
     <td>
       <b>CSS</b><br>
-      이 프로젝트는 파이썬 프로그래밍 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-python-2024">여기</a>를 참조하세요.
+      이 프로젝트는 CSS와 관련된 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-python-2024">여기</a>를 참조하세요.
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
     </td>
     <td>
       <b>Visual Studio</b><br>
-      이 프로젝트는 C 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-TCP-IP-2024/tree/main/rpi">여기</a>를 참조하세요.
+      대부분의 프로젝트는 Visual Studio 혹은 VS Code를 기반으로 작성됩니다.
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@
     </td>
     <td>
       <b>VS Code</b><br>
-      이 프로젝트는 C++ 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-cpp-2024">여기</a>를 참조하세요.
+      대부분의 프로젝트는 Visual Studio 혹은 VS Code를 기반으로 작성됩니다.
     </td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@
     </td>
     <td>
       <b>GitHub</b><br>
-      이 프로젝트는 C# 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-csharp-2024">여기</a>를 참조하세요.
+      대부분의 결과물은 GitGub에만 등록합니다. 자세한 내용은 <a href="https://github.com/c9yu?tab=repositories">여기</a>를 참조하세요.
     </td>
   </tr>
     <tr>
@@ -80,7 +80,7 @@
     </td>
     <td>
       <b>GitHub</b><br>
-      이 프로젝트는 C# 언어의 기본적인 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/basic-csharp-2024">여기</a>를 참조하세요.
+      이 프로젝트는 아두이노와 관련된 팀 프로젝트 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/Smart-Factory">여기</a>를 참조하세요.
     </td>
   </tr>
 </table>
