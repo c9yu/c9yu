@@ -13,11 +13,21 @@
  🌱 Email : polkj11290@naver.com
 
  :memo: License : SQLD, ADSP, 정보처리기사(실기 진행 중)
- 
- :roller_coaster: resume : 부경대학교 전자공학과 졸업 (2018.03 ~ 2024.02) <br> IoT 시스템 개발자 과정 (2024.02 ~ 2024.09)
 
- <hr/>
- 
+ <table>
+     <tr>
+         <td align="center">
+             <div align="left">
+             🎢 resume 
+             </div>
+         </td>
+         <td>
+             <b>resume</b>
+             부경대학교 전자공학과 졸업 (2018.03 ~ 2024.02)
+             IoT 시스템 개발자 과정 (2024.02 ~ 2024.09)
+         </td>
+     </tr>
+ </table>
 <h2 align="left">⚒️ Using Tools ⚒️</h2>
 <br/>
 <table>
