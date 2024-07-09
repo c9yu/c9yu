@@ -12,7 +12,7 @@
  
  🌱 Email : polkj11290@naver.com
 
- :sparkles:
+ :memo: 자격증 : SQLD, ADSP, 정보처리기사(필기 취득, 실기 진행 중)
 
  <hr/>
  
