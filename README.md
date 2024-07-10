@@ -71,7 +71,7 @@
     </td>
     <td>
       <b>GitHub</b><br>
-      이 프로젝트는 아두이노와 관련된 팀 프로젝트 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/c9yu/Smart-Factory">여기</a>를 참조하세요.
+      이 프로젝트는 아두이노와 관련된 팀 프로젝트 내용을 다룹니다. 자세한 내용은 <a href="https://github.com/smart-recycling-factory/Smart-Factory">여기</a>를 참조하세요.
     </td>
   </tr>
   <tr>
