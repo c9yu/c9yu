@@ -16,7 +16,7 @@
 
  🎢 resume<br>- 부경대학교 전자공학과 졸업 (2018.03 ~ 2024.02)<br>- IoT 시스템 개발자 과정 (2024.02 ~ 2024.09)<br>
  
- 🥇Awards : 2023 1학기 LINC 3.0 캡스톤디자인 경진대회 우수상
+ 🥇Awards : 2023 1학기 LINC 3.0 캡스톤디자인 경진대회 우수상 (자세한 내용은 <a href="https://github.com/c9yu/capstone_design">여기</a> 참조)
  
 <h2 align="left">⚒️ Using Tools ⚒️</h2>
 <br/>
